@@ -11,8 +11,10 @@ class Compiler {
 
     public:
         Compiler(std::string source_code) {};   
-        void lexer();
-        void parser();
+        void Lexer();
+        void Parser();
+        void SemanticAnalyzer();
+        void CodeGenerator();
 }; 
 
 
