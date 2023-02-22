@@ -7,10 +7,6 @@
 *Description: All 4 phases are implemented in this file 
 *(c)Copyright Compiler is free software: you can redistribute it and/or modify it under the *terms of the GNU General Public License 
 *A copy of the GNU General Public License v3 is available here:  <https:;www.gnu.org/licenses/>. 
-
-
-
-
 **/
 
 #include "compiler.h"
