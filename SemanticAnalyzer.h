@@ -17,15 +17,15 @@ class SemanticAnalyzer{
 
     public:
 
-        void traverse();//Traverse the source code to check each token(traverse the string to check each token)
-        void checkAssignments();//checks what the var is declared as (string, int, bool, ect..)
-        bool CheckIfDeclared();//Checks if the token is a declared var(int x; or int x = 10;)
-        bool CheckifVarMisUsed();//check if var is declared incorrectly(ex: string x = 2)
-        bool CheckFlowControl();//Check that control structures are used properly(ex:no break out of loop)
+        void traverse(Token CurrentTok);//Traverse the source code to check each token(traverse the string to check each token)
+        void checkAssignments(CurrentTok);//checks what the var is declared as (string, int, bool, ect..)
+        bool CheckIfDeclared(Token CurrentTok);//Checks if the token is a declared var(int x; or int x = 10;)
+        bool CheckifVarMisUsed(Token CurrentTok);//check if var is declared incorrectly(ex: string x = 2)
+        bool CheckFlowControl(Token CurrentTok);//Check that control structures are used properly(ex:no break out of loop)
 
 
     private:
         Token CurrentTok;
-        Lexer& lex;
+        SymbolTable& symbolTable;
 
 };
