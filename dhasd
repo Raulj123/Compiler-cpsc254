@@ -1,0 +1,23 @@
+[33mcommit 07fbfc4cf40c79df19fc024eb206df1854a042fa[m[33m ([m[1;36mHEAD -> [m[1;32mtest-implementation[m[33m, [m[1;31morigin/test-implementation[m[33m)[m
+Author: Josue <xjaramis@gmail.com>
+Date:   Tue Feb 21 19:19:37 2023 -0800
+
+    Slight changes to .cpp
+
+[33mcommit a57e094901e83dc6c57231c0b38d9e3e6cc5d7d9[m
+Author: Raul <jarquinr121@csu.fullerton.edu>
+Date:   Tue Feb 21 15:15:35 2023 -0800
+
+    Updated both files
+
+[33mcommit b1b439712f39d6515c38c6bd550d4ac8c35a9688[m
+Author: Mario Linares <mariolinares@csu.fullerton.edu>
+Date:   Tue Feb 21 12:39:37 2023 -0800
+
+    Add Compiler class with lexer and parser method functions
+
+[33mcommit 5694903a7d5c178107f5f5f9d39b4b151f59f517[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Mario Linares <mariolinares@csu.fullerton.edu>
+Date:   Thu Feb 16 12:29:51 2023 -0800
+
+    Add readme
