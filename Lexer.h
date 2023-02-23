@@ -1,8 +1,8 @@
-// Original Author: Menfeng Xue
-//Created: 2023/02/16
-// Purpose of this file: this file is a header file includes lexer class. It's used for lexical analyzer.
-
-
+/* Original Author: Menfeng Xue
+Created: 2023/02/16
+Purpose of this file: this file is a header file includes lexer class. It's used for lexical analyzer.
+(c)Copyright Compiler is free software: you can redistribute it and/or modify it under theterms of the GNU General Public License *A copy of the GNU General Public License v3 is available here:  <https:;www.gnu.org/licenses/>.
+*/
 
 struct Token
 {
