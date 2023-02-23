@@ -1,6 +1,7 @@
 /*
 *Original Author: Saul Andrade
 *Created 2/22/23
+*Last Updated by Carlos Almontes
 *contact information: saulandrade124@csu.fullerton.edu
 *purpose of this file: Determin th edeclarations and statements of a program are semantically correct
 *(c)Copyright Compiler is free software: you can redistribute it and/or modify it under the *terms of the GNU General Public License 
